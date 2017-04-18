@@ -1,7 +1,10 @@
-# test coverage for  [pluralize (v4.0.0)](https://github.com/blakeembrey/pluralize#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-pluralize.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pluralize) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pluralize.svg)](https://travis-ci.org/npmtest/node-npmtest-pluralize)
+# npmtest-pluralize
+
+#### test coverage for  [pluralize (v4.0.0)](https://github.com/blakeembrey/pluralize#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-pluralize.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pluralize) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pluralize.svg)](https://travis-ci.org/npmtest/node-npmtest-pluralize)
+
 #### Pluralize and singularize any word
 
-[![NPM](https://nodei.co/npm/pluralize.png?downloads=true)](https://www.npmjs.com/package/pluralize)
+[![NPM](https://nodei.co/npm/pluralize.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pluralize)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-pluralize/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-pluralize/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-pluralize/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-pluralize/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-pluralize/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-pluralize/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-pluralize/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-pluralize/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-pluralize/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-pluralize/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-pluralize%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-pluralize/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-pluralize/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-pluralize/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-pluralize/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-pluralize%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pluralize/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-pluralize/build/test-report.html](https://npmtest.github.io/node-npmtest-pluralize/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-pluralize/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-pluralize/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-pluralize/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-pluralize/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-pluralize/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pluralize/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-pluralize/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +37,6 @@
 {
     "author": {
         "name": "Blake Embrey",
-        "email": "hello@blakeembrey.com",
         "url": "http://blakeembrey.me"
     },
     "bugs": {
@@ -64,13 +72,11 @@
     "main": "pluralize.js",
     "maintainers": [
         {
-            "name": "blakeembrey",
-            "email": "me@blakeembrey.com"
+            "name": "blakeembrey"
         }
     ],
     "name": "pluralize",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/blakeembrey/pluralize.git"
